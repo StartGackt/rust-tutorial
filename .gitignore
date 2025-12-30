@@ -1,1 +1,20 @@
+# Rust compiled output
 /target
+
+# Compiled binaries in Fundamentals (files without extension)
+Fundamentals/**/*[!.rs]
+!Fundamentals/**/
+
+# Backup files from rustfmt
+**/*.rs.bk
+
+# macOS system files
+.DS_Store
+
+# IDE settings (optional - if you use these)
+.idea/
+.vscode/
+*.swp
+
+# Cargo.lock is usually committed for binary projects, but optional for libraries
+# Cargo.lock
