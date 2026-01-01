@@ -27,3 +27,6 @@
   - `2.loop/`: โครงสร้างการวนลูป
   - `3.break-continue/`: การควบคุม break, continue และ match
   - `4.FunctionBasics/`: การใช้งานฟังก์ชัน
+  - `5.Borrowing /`: การจัดการ Borrowing
+  - `6.Error Handling /`: การจัดการ Error Handling
+  - `7.Defining structs /`: การกำหนดโครงสร้างข้อมูล
